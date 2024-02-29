@@ -1,5 +1,33 @@
-### Hi there 👋
-
+<h1><b>Arron - Aspiring Full Stack Web Developer 🚀 </b></h1>
+<p>Hey there! 👋 I'm Arron, a coding enthusiast based in the breathtaking Sierra Nevadas of Northern California 🗻. Currently, I'm on an exciting journey to transition from a robotics hobbyist to a Full Stack Web Developer.</p>
+<h2>🌐 About Me</h2>
+<ul>
+  <li>💻 Passion for Coding: I discovered my love for coding during a robotics hobbyist course. While I enjoyed the hardware aspect, I found my true calling in the coding realm. The process of bringing ideas to life through code fascinates me.</li>
+  <li>🎓 Academic Background: I hold a B.S. in Behavioral Sciences, where I was not only immersed in the study of human behavior but also had the opportunity to contribute as a teaching assistant in the philosophy department and a research assistant in the Psychology of Happiness lab.</li>
+  <li>🌱 Continuous Learner: If I'm not coding for work, you'll find me immersed in learning new programming languages just for fun. I believe in the power of staying curious and embracing the ever-evolving tech landscape.</li>
+  <li>👩‍👧‍👦 Supermom: I proudly wear the hat of a mom, juggling the world of coding and parenting. My ability to manage time effectively and stay organized is a testament to my commitment to personal and professional growth.</li>
+  <li>🏡 Remote Warrior: Living in a remote, small town high in the Sierra Nevadas, I've developed resilience and adaptability. I thrive on challenges and bring a unique perspective to the world of coding.</li>
+  <li>🌐 Diverse Experience: With over 20 years in the food industry, starting as a food server in high school, I've honed my interpersonal and communication skills. This experience has shaped me into a reliable team player and effective communicator.</li>
+</ul>
+<h2>👩‍💻 Tech Stack</h2>
+<p>While I may be early in my coding journey, here's a glimpse of what I've been working with:</p>
+<ul>
+  <li>Frontend: HTML, CSS, JavaScript, React.js</li>
+  <li>Backend: Node.js (Express)</li>
+  <li>Database: SQLite, MongoDB</li>
+  <li>Version Control: Git, GitHub</li>
+</ul>
+<h2>💼 Professional Background</h2>
+<p>My exposure to heavy machinery through my family's business and assisting my spouse in starting a contracting business has given me a deep appreciation for entrepreneurship and the dedication it takes to build and sustain successful ventures.</p>
+<h2>🚀 Future Goals</h2>
+<p>I am actively seeking opportunities to collaborate, learn, and contribute to innovative projects. My goal is to become a proficient Full Stack Web Developer, combining my passion for coding with my unique background.</p>
+<h2>📫 Let's Connect!</h2>
+<p>I am excited about the prospect of working with like-minded individuals and companies. If you share my enthusiasm for coding, technology, or just want to chat, feel free to reach out:</p>
+<ul>
+  <li>📧 Email: alsop.arron@gmail.com</li>
+  <li>🔗 LinkedIn: www.linkedin.com/in/arron-alsop</li>
+</ul>
+<p align="center">Let's code the future together! 🌐✨</p>
 <!--
 **aRonnieAlsop/aRonnieAlsop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
