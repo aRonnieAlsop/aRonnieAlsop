@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/gM735YA.jpeg" />
 
-<h1><b>Arron - Aspiring Full Stack Web Developer 🚀 </b></h1>
+<h1><b>Arron - Full Stack Web Developer 🚀 </b></h1>
 <p>Hey there! 👋 I'm Arron, a coding enthusiast based in the breathtaking Sierra Nevadas of Northern California 🗻. Currently, I'm on an exciting journey to transition from a robotics hobbyist to a Full Stack Web Developer.</p>
 <h2>🌐 About Me</h2>
 <ul>
