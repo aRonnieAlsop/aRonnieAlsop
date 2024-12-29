@@ -1,7 +1,8 @@
-![Vintage Computer GIF](https://github.com/aRonnieAlsop/portfolio/blob/main/vintage_computer.gif)
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/aRonnieAlsop/portfolio/main/vintage_computer.gif" alt="Vintage Computer GIF" style="width: 200px; height: auto; margin-right: 20px;">
+  <h1>ARRON ALSOP</h1>
+</div>
 
-
-<h1><b>Arron - Full Stack Web Developer 🚀 </b></h1>
 <p>Hey there! 👋 I'm Arron, a coding enthusiast based in the breathtaking Sierra Nevadas of Northern California 🗻. Currently, I'm on an exciting journey to transition from a robotics hobbyist to a Full Stack Web Developer.</p>
 <h2>🌐 About Me</h2>
 <ul>
