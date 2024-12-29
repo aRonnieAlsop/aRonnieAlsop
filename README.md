@@ -1,7 +1,9 @@
-<div style="display: flex; align-items: center;">
+<div style="display: inline-block">
   <img src="https://raw.githubusercontent.com/aRonnieAlsop/portfolio/main/ezgif-1-8100cac63b.gif" alt="ARRON ALSOP title GIF" style="width: 270px; height: auto; vertical-align: top;">
-  <img src="https://raw.githubusercontent.com/aRonnieAlsop/portfolio/main/vintage_computer.gif" alt="Vintage Computer GIF" style="width: 380px; height: auto;">
   <img src="https://raw.githubusercontent.com/aRonnieAlsop/portfolio/main/ezgif-3-cebc857a89.gif" alt="Computer Keyboard" style="width: 180px; height: auto;">
+</div> <div>
+  <img src="https://raw.githubusercontent.com/aRonnieAlsop/portfolio/main/vintage_computer.gif" alt="Vintage Computer GIF" style="width: 380px; height: auto;">
+  
 </div>
 
 <p>Hey there! 👋 I'm Arron, a coding enthusiast based in the breathtaking Sierra Nevadas of Northern California 🗻. Currently, I'm on an exciting journey to transition from a robotics hobbyist to a Full Stack Web Developer.</p>
