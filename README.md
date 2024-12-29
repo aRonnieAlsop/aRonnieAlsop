@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/aRonnieAlsop/portfolio/main/vintage_computer.gif" alt="Vintage Computer GIF" style="width: 350px; height: auto; margin-right: 20px;">
-  <img src="https://raw.githubusercontent.com/aRonnieAlsop/portfolio/main/ezgif-1-8100cac63b.gif" alt-"ARRON ALSOP title GIF" style="width: 250px; height: 200px;">
+  <img src="https://raw.githubusercontent.com/aRonnieAlsop/portfolio/main/vintage_computer.gif" alt="Vintage Computer GIF" style="width: 380px; height: auto; margin-right: 20px;">
+  <img src="https://raw.githubusercontent.com/aRonnieAlsop/portfolio/main/ezgif-1-8100cac63b.gif" alt-"ARRON ALSOP title GIF" style="width: 270px; height: 220px;">
 </div>
 
 <p>Hey there! 👋 I'm Arron, a coding enthusiast based in the breathtaking Sierra Nevadas of Northern California 🗻. Currently, I'm on an exciting journey to transition from a robotics hobbyist to a Full Stack Web Developer.</p>
