@@ -1,5 +1,5 @@
-<img src="https://i.imgur.com/gM735YA.jpeg" />
-![Vintage Computer GIF](https://media.giphy.com/media/WAInq2ktLbAuQ/giphy.gif)
+![Vintage Computer GIF](https://github.com/aRonnieAlsop/portfolio/blob/main/vintage_computer.gif)
+
 
 <h1><b>Arron - Full Stack Web Developer 🚀 </b></h1>
 <p>Hey there! 👋 I'm Arron, a coding enthusiast based in the breathtaking Sierra Nevadas of Northern California 🗻. Currently, I'm on an exciting journey to transition from a robotics hobbyist to a Full Stack Web Developer.</p>
