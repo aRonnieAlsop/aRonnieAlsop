@@ -1,5 +1,5 @@
 <div style="display: inline-block">
-  <img src="https://raw.githubusercontent.com/aRonnieAlsop/portfolio/main/ezgif-1-8100cac63b.gif" alt="ARRON ALSOP title GIF" style="width: 270px; height: auto; vertical-align: top;">
+  <img src="https://raw.githubusercontent.com/aRonnieAlsop/readMe_assets/main/ezgif-1-8100cac63b.gif" alt="ARRON ALSOP title GIF" style="width: 270px; height: auto; vertical-align: top;">
   <img src="https://raw.githubusercontent.com/aRonnieAlsop/portfolio/main/vintage_computer.gif" alt="Vintage Computer GIF" style="width: 380px; height: auto;">
    <img src="https://raw.githubusercontent.com/aRonnieAlsop/portfolio/main/ezgif-3-cebc857a89.gif" alt="Computer Keyboard" style="width: 180px; height: auto;">
 </div>
