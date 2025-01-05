@@ -30,7 +30,7 @@
 <p>I am excited about the prospect of working with like-minded individuals and companies. If you share my enthusiasm for coding, technology, or just want to chat, feel free to reach out:</p>
 <ul>
   <li>📧 Email: alsop.arron@gmail.com</li>
-  <li>🔗[ LinkedIn: www.linkedin.com/in/](http://www.linkedin.com/in/ronnie-alsop)</li>
+  <li>🔗LinkedIn: http://www.linkedin.com/in/ronnie-alsop</li>
 </ul>
 <p align="center">Let's code the future together! 🌐✨</p>
 <!--
