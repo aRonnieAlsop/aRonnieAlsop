@@ -4,7 +4,7 @@
    <img src="https://raw.githubusercontent.com/aRonnieAlsop/readMe_assets/main/ezgif-3-cebc857a89.gif" alt="Computer Keyboard" style="width: 180px; height: auto;">
 </div>
 
-<p>Hey there! 👋 I'm Arron, a coding enthusiast based in the breathtaking Sierra Nevadas of Northern California 🗻. Currently, I'm on an exciting journey to transition from a robotics hobbyist to a Full Stack Web Developer.</p>
+<p>Hey there! 👋 I'm Arron, a coding enthusiast based in the breathtaking Sierra Nevadas of Northern California 🗻.</p>
 <h2>🌐 About Me</h2>
 <ul>
   <li>💻 Passion for Coding: I discovered my love for coding during a robotics hobbyist course. While I enjoyed the hardware aspect, I found my true calling in the coding realm. The process of bringing ideas to life through code fascinates me.</li>
