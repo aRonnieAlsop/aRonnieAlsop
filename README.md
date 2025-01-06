@@ -20,7 +20,7 @@
   <li>Database: SQLite, MongoDB</li>
   <li>Version Control: Git, GitHub</li>
 </ul>
-<h2>💼 Professional Background</h2>
+<h2>🛠 Professional Background 🛠</h2>
 <p>My exposure to heavy machinery through my family's business and assisting my spouse in starting a contracting business has given me a deep appreciation for entrepreneurship and the dedication it takes to build and sustain successful ventures.</p>
 <h2>➵ 𖦏 Future Goals ➵ 𖦏</h2>
 <p>I am actively seeking opportunities to collaborate, learn, and contribute to innovative projects. I want to bring a little bit of that rural perspective into coding.</p>
