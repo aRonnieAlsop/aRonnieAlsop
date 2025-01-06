@@ -1,7 +1,5 @@
 <div style="display: inline-block">
   <img src="https://raw.githubusercontent.com/aRonnieAlsop/readMe_assets/main/ezgif-1-8100cac63b.gif" alt="ARRON ALSOP title GIF" style="width: 270px; height: auto; vertical-align: top;">
-  <img src="https://raw.githubusercontent.com/aRonnieAlsop/readMe_assets/main/vintage_computer.gif" alt="Vintage Computer GIF" style="width: 380px; height: auto;">
-   <img src="https://raw.githubusercontent.com/aRonnieAlsop/readMe_assets/main/ezgif-3-cebc857a89.gif" alt="Computer Keyboard" style="width: 180px; height: auto;">
 </div>
 
 <p>Hey there! 👋 I'm Arron, a coding enthusiast based in the breathtaking Sierra Nevadas of Northern California 🗻.</p>
@@ -14,8 +12,8 @@
   <li>🏡 Remote Warrior: Living in a remote, small town high in the Sierra Nevadas, I've developed resilience and adaptability. I thrive on challenges and bring a unique perspective to the world of coding.</li>
   <li>🌐 Diverse Experience: With over 20 years in the food industry, starting as a food server in high school, I've honed my interpersonal and communication skills. This experience has shaped me into a reliable team player and effective communicator.</li>
 </ul>
+<img src="https://raw.githubusercontent.com/aRonnieAlsop/readMe_assets/main/ezgif-3-cebc857a89.gif" alt="Computer Keyboard" style="width: 180px; height: auto;">
 <h2>👩‍💻 Tech Stack</h2>
-<p>While I may be early in my coding journey, here's a glimpse of what I've been working with:</p>
 <ul>
   <li>Frontend: HTML, CSS, JavaScript, React.js</li>
   <li>Backend: Node.js (Express)</li>
@@ -32,7 +30,9 @@
   <li>📧 Email: alsop.arron@gmail.com</li>
   <li>🔗LinkedIn: http://www.linkedin.com/in/ronnie-alsop</li>
 </ul>
+<img src="https://raw.githubusercontent.com/aRonnieAlsop/readMe_assets/main/vintage_computer.gif" alt="Vintage Computer GIF" style="width: 380px; height: auto;">
 <p align="center">Let's code the future together! 🌐✨</p>
+
 <!--
 **aRonnieAlsop/aRonnieAlsop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
