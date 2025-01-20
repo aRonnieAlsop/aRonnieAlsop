@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/aRonnieAlsop/readMe_assets/main/ezgif-3-cebc857a89.gif" alt="Computer Keyboard" style="width: 180px; height: auto;">
 <h2>⚡︎ ⚡︎ ⚡︎ Tech Stack ⚡︎ ⚡︎ ⚡︎</h2>
 <ul>
-  <li>Frontend: HTML, CSS, JavaScript, React.js, TypeScript</li>
+  <li>Frontend: HTML, CSS, JavaScript, React.js, TypeScript, Node 👇🏼</li>
   <li>Backend: Node.js (Express), Python</li>
   <li>Database: SQL, MongoDB</li>
   <li>Programming Languages: C, C++</li>
