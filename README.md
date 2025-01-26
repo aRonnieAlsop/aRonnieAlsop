@@ -1,5 +1,5 @@
 <div style="display: inline-block">
-  <img src="https://raw.githubusercontent.com/aRonnieAlsop/readMe_assets/main/ezgif-1-8100cac63b.gif" alt="ARRON ALSOP title GIF" style="width: 800px; height: 300px; vertical-align: top;">
+  <img src="https://raw.githubusercontent.com/aRonnieAlsop/banner_gif/refs/heads/main/name_banner.gif" alt="Ronnie ALSOP title GIF" style="width: 944px; height: 300px; vertical-align: top;">
 </div>
 
 <p>Hey there! ⸜(｡˃ ᵕ ˂ )⸝ I'm Arron, a coding enthusiast based in the breathtaking Sierra Nevadas of Northern California. 𖠰𐂂𖢔ᨒ↟⛰︎ ᨒ↟𖠰𐂂</p>
